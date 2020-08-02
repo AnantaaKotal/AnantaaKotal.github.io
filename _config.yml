@@ -2,7 +2,7 @@
 
 title:            
 locale:           en_US
-url: https://satwikkottur.github.io
+url: https://anantaakotal.github.io/
 # Jekyll configuration
 
 permalink:   /:categories/:title/
@@ -23,7 +23,7 @@ kramdown:
 
 # Site owner
 owner:
-  name: Satwik Kottur
+  name: Anantaa Kotal
   avatar: bio-photo-3.jpg
   position: Research Scientist
   school: Facebook AI
