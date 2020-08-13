@@ -2,7 +2,7 @@ experiences:
 
 - place: "UMBC"
   time: "Aug 2019 - Now"
-  title: "Ph.D. Computer Science"
+  title: "Ph.D., Computer Science"
   subtitle: "Advised by Anupam Joshi "
   category: "school"
 
@@ -10,4 +10,10 @@ experiences:
   time: "June 2017 - June 2019"
   title: "Software Development Engineer"
   subtitle: ""
-  category: "SDE"
+  category: "work"
+
+- place: "Jadavpur University"
+  time: "June 2013 - May 2017"
+  title: "B.E., Computer Science and Engineering"
+  subtitle: ""
+  category: "school"
