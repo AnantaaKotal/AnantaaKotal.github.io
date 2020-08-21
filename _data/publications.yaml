@@ -1,13 +1,10 @@
 papers:
- ### - title: "Role of Spatial Context in Adversarial Robustness for Object Detection"
-  ###  authors: "Aniruddha Saha*, Akshayvarun Subramanya*, Koninika Patil, Hamed Pirsiavash"
-   ### venue: "CVPR 2020 Workshop on Adversarial Machine Learning in Computer Vision"
-  ###  paper: "https://arxiv.org/abs/1910.00068"
-   ### code: "https://github.com/UMBCvision/Contextual-Adversarial-Patches"
-    ###video: "https://umbc-my.sharepoint.com/:v:/g/personal/anisaha1_umbc_edu/ERrNYDKMmE1DuahI6JnrKosBs0HkNe5avjUWB8b7HTTQ6A?e=3KBBgV"
-  ###  slides: "https://umbc-my.sharepoint.com/:b:/g/personal/anisaha1_umbc_edu/EQy-Y16hsMVHnwxX_EHKduABx9qBrTZLeklbWWB273AYSw?e=vTzx8k"
-   ### cv: y
-   ### equal: y
+- title: "ViCLOUD: Measuring Vagueness in Cloud Service Privacy Policies and Terms of Services"
+  authors: "Anantaa Kotal, Karuna Pande Joshi, Anupam Joshi"
+  venue: "In proceedings of IEEE International Conference on Cloud Computing (CLOUD), 2020"
+  paper: "https://ebiquity.umbc.edu/paper/html/id/946/ViCLOUD-Measuring-Vagueness-in-Cloud-Service-Privacy-Policies-and-Terms-of-Services"
+  cv: y
+  equal: y
 
 
 
