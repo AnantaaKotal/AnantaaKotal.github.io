@@ -5,7 +5,13 @@ experiences:
   title: "Ph.D., Computer Science"
   subtitle: "Advised by Anupam Joshi "
   category: "school"
-
+  
+- place: "UMBC"
+  time: "May 2021 - Aug 2021"
+  title: "Cybersecurity Ph.D. Intern"
+  subtitle: ""
+  category: "work"
+  
 - place: "Amazon Development Centre"
   time: "June 2017 - June 2019"
   title: "Software Development Engineer"
