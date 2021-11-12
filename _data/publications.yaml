@@ -5,30 +5,6 @@ papers:
   paper: "https://ebiquity.umbc.edu/paper/html/id/993/The-Effect-of-Text-Ambiguity-on-creating-Policy-Knowledge-Graphs"
   cv: y
   
-- title: "ViCLOUD: Measuring Vagueness in Cloud Service Privacy Policies and Terms of Services"
-  authors: "Anantaa Kotal, Karuna Pande Joshi, Anupam Joshi"
-  venue: "In proceedings of IEEE International Conference on Cloud Computing (CLOUD), 2020"
-  paper: "https://ebiquity.umbc.edu/paper/html/id/946/ViCLOUD-Measuring-Vagueness-in-Cloud-Service-Privacy-Policies-and-Terms-of-Services"
-  cv: y
-  
-- title: "A Comparative Study of Deep Learning based Named Entity Recognition Algorithms for Cybersecurity"
-  authors: "Soham Dasgupta, Aritran Piplai, Anantaa Kotal, Anupam Joshi"
-  venue: "IEEE International Conference on Big Data (BIGDATA), 2020"
-  paper: "https://ebiquity.umbc.edu/paper/html/id/965/A-Comparative-Study-of-Deep-Learning-based-Named-Entity-Recognition-Algorithms-for-Cybersecurity"
-  cv: y
-
-- title: "Using Knowledge Graphs and Reinforcement Learning for Malware Analysis"
-  authors: "Aritran Piplai, Priyanka Ranade, Anantaa Kotal, Sudip Mittal, Sandeep Nair Narayanan, Anupam Joshi"
-  venue: "IEEE International Conference on Big Data (BIGDATA), 2020"
-  paper: "https://ebiquity.umbc.edu/paper/html/id/960/Using-Knowledge-Graphs-and-Reinforcement-Learning-for-Malware-Analysis"
-  cv: y
-  
-  - title: "Measuring Semantic Similarity across EU GDPR Regulation and Cloud Privacy Policies"
-  authors: "Lavanya Elluri, Karuna Pande Joshi, Anantaa Kotal"
-  venue: "7th International Workshop on Privacy and Security of Big Data (PSBD 2020), in conjunction with 2020 IEEE International Conference on Big Data (IEEE BigData 2020)"
-  paper: "https://ebiquity.umbc.edu/paper/html/id/961/Measuring-Semantic-Similarity-across-EU-GDPR-Regulation-and-Cloud-Privacy-Policies"
-  cv: y
-  
   
   
 
