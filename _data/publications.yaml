@@ -1,4 +1,10 @@
 papers:
+- title: "PriveTAB: Secure and Privacy-Preserving sharing of Tabular Data"
+  authors: "Anantaa Kotal, Aritran Piplai, Sai Sree Laya Chukkapalli, Anupam Joshi"
+  venue: "Proceedings of the 2022 ACM on International Workshop on Security and Privacy Analytics (IWSPA), 2022"
+  paper: "https://ebiquity.umbc.edu/paper/html/id/1014/PriveTAB-Secure-and-Privacy-Preserving-sharing-of-Tabular-Data"
+  cv: y
+  
 - title: "The Effect of Text Ambiguity on creating Policy Knowledge Graphs"
   authors: "Anantaa Kotal, Anupam Joshi, Karuna Pande Joshi"
   venue: "IEEE International Conference on Big Data and Cloud Computing (BDCLOUD), 2021"
