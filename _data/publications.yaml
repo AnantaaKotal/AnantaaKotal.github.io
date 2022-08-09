@@ -3,6 +3,7 @@ papers:
   authors: "Anantaa Kotal, Aritran Piplai, Sai Sree Laya Chukkapalli, Anupam Joshi"
   venue: "Proceedings of the 2022 ACM on International Workshop on Security and Privacy Analytics (IWSPA), 2022"
   paper: "https://ebiquity.umbc.edu/paper/html/id/1014/PriveTAB-Secure-and-Privacy-Preserving-sharing-of-Tabular-Data"
+  code: "https://github.com/AnantaaKotal/PriveTab"
   cv: y
   
 - title: "The Effect of Text Ambiguity on creating Policy Knowledge Graphs"
