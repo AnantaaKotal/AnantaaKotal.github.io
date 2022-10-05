@@ -1,4 +1,9 @@
 experiences:
+- place: "UMBC"
+  time: "Aug 2022 - Now"
+  title: "Course Instructot"
+  subtitle: "Teaching CMSC 471: Intro to AI"
+  category: "school"
 
 - place: "IBM"
   time: "May 2022 - Aug 2022"
