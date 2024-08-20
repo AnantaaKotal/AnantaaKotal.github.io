@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, University of Maryland Baltimore County, 2024 (expected)
+* B.E. in Computer Science and Engineering, Jadavpur University, 2013
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: Assistant Professor
+  * The University of Texas at University
+  * Teaching CS 5362/6362: Data Mining in Fall 2024
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022: Lecturer
+  * University of Maryland at Baltimore County
+  * Course: Intro to Artificial Intelligence 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Summer 2022: PhD Intern
+  * IBM
+  * Austin, TX
+
+* Summer 2021: PhD Intern
+  * IBM
+  * Armonk, NY
+
+* 2019-2024: Research Assistant
+  * University of Maryland at Baltimore County
+  * Advisor: Dr. Anupam Joshi
+
+* 2017-1029: Software Development Engineer (SDE)
+  * Amazon Development Center
+  * Hyderabad, India
+
+
 
 Publications
 ======
@@ -47,11 +48,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -59,6 +55,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
