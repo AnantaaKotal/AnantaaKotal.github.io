@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Maryland Baltimore County, 2024 (expected)
+* Ph.D in Computer Science, University of Maryland Baltimore County, 2024
 * B.E. in Computer Science and Engineering, Jadavpur University, 2013
 
 Work experience
