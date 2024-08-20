@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Maryland Baltimore County (UMBC), 2024
-* B.E. in Computer Science and Engineering, Jadavpur University, 2013
+* B.E. in Computer Science and Engineering, Jadavpur University, 2017
 
 Work experience
 ======
