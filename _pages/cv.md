@@ -11,17 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, University of Maryland Baltimore County, 2024
+* Ph.D in Computer Science, University of Maryland Baltimore County (UMBC), 2024
 * B.E. in Computer Science and Engineering, Jadavpur University, 2013
 
 Work experience
 ======
 * Fall 2024: Assistant Professor
-  * The University of Texas at University
+  * The University of Texas at El Paso (UTEP)
   * Teaching CS 5362/6362: Data Mining in Fall 2024
 
 * 2022: Lecturer
-  * University of Maryland at Baltimore County
+  * UMBC
   * Course: Intro to Artificial Intelligence 
 
 * Summer 2022: PhD Intern
@@ -33,7 +33,7 @@ Work experience
   * Armonk, NY
 
 * 2019-2024: Research Assistant
-  * University of Maryland at Baltimore County
+  * UMBC
   * Advisor: Dr. Anupam Joshi
 
 * 2017-1029: Software Development Engineer (SDE)
