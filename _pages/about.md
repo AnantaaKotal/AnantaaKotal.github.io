@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi There!"
+title: "Anantaa Kotal"
 author_profile: true
 redirect_from: 
   - /about/
